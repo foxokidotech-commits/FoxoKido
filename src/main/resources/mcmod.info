@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "foxocraft",
+    "name": "FoxoCraft Client",
+    "description": "Professional PvP Client for Minecraft 1.8.9 with advanced features",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/foxokidotech-commits/FoxoKido",
+    "updateUrl": "",
+    "authorList": ["FoxoTech"],
+    "credits": "FoxoCraft Development Team",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": []
+  }
+]

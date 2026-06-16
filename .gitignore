@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+dist/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.class
+
+# Minecraft
+run/
+eclipse/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
+.classpath
+.project
+.settings/
+
+# Build artifacts
+bin/
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
